@@ -4,5 +4,6 @@
     <string name="P2">Insomnia</string>
     <string name="P3">Nervous</string>
     <string name="P4">Sleepy</string>
+    <string name="C">Custom</string>
     <string name="Play_button">Play</string>
 </resources>
